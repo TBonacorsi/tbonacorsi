@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thayná Bonacorsi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🔭 Hoje em dia trabalho com tecnologia e educação musical.
+- 📚 Hoje em dia trabalho com tecnologia e educação musical.
 - 🌱 Estudando sobre sensores e suas programações.
 - 😄 Ela/dela
 
