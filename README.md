@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thayná Bonacorsi!!
 
-- 📚 Hoje em dia trabalho com tecnologia e educação musical.
+- 📚 Hoje em dia trabalho com tecnologia e performance musical.
 - 🌱 Estudando sobre sensores e suas programações.
 - 😄 Ela/dela
 
